@@ -1,0 +1,16 @@
+{
+  "name": "gold-silver-manager",
+  "framework": "react",
+  "cssPreProcessor": "css",
+  "includeTailwind": false,
+  "package": "none",
+  "newProject": false,
+  "template": "single-view",
+  "theming": {
+    "customColor": true,
+    "color": "#0f766e",
+    "darkTheme": false,
+    "iconFonts": false,
+    "fillBars": false
+  }
+}
